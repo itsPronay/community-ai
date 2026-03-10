@@ -1,7 +1,4 @@
-aiohttp
-pytest
-jiwer
-soundfile
-numpy
-click
-python-dotenv
+aiohttp>=3.8.0
+python-dotenv>=1.0.0
+jiwer>=3.0.0
+websockets>=12.0
